@@ -1,6 +1,24 @@
 img {
-    width: 200px;
-  }
+  width: 200px;
+border-radius: 5%;
+}
 body{
-  justify-content: center;
+justify-content: center;
+align-items: center;
+display: flex;
+text-align: center;
+flex-direction: column;
+}
+div{
+  display: block;
+  justify-items: auto;
+}
+footer {
+  margin-top: 20px;
+  text-align: center;
+}
+a{
+  display: block;
+  margin: 5px;
+  text-decoration: none;
 }
