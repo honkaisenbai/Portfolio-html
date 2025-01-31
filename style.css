@@ -1,24 +1,38 @@
 img {
   width: 200px;
-border-radius: 5%;
+  border-radius: 5%;
 }
-body{
-justify-content: center;
-align-items: center;
-display: flex;
-text-align: center;
-flex-direction: column;
+
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
 }
-div{
+
+div {
   display: block;
   justify-items: auto;
 }
+
 footer {
   margin-top: 20px;
   text-align: center;
 }
-a{
+
+a {
   display: block;
   margin: 5px;
   text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+
+#Name {
+  font-style: italic;
+  font-size: large;
+  font-family: 'Arial';
 }
