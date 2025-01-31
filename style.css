@@ -37,3 +37,7 @@ a:hover {
   font-size: large;
   font-family: 'Arial';
 }
+#textimg{
+  width: 450;
+  height:fit-content ;
+}
